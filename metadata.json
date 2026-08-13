@@ -1,0 +1,24 @@
+{
+  "name": "Maybe Tomorrow",
+  "symbol": "LATER",
+  "description": "Maybe Tomorrow ($LATER) is a Solana meme token for professional procrastinators, chronic snoozers, and anyone who has ever moved a task to tomorrow. No rush. No panic. No promises. We'll figure it out... later.",
+  "external_url": "https://github.com/parkhyunsung90/maybe-tomorrow-token-metadata",
+  "attributes": [
+    {
+      "trait_type": "Slogan",
+      "value": "No rush. Just LATER."
+    },
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": []
+  }
+}
